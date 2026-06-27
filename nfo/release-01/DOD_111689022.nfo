@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR35, Greece, October 2023</title>
+  <originaltitle>231002-D-D0360-7307</originaltitle>
+  <sorttitle>UAP 2023-10-01 DOD_111689022</sorttitle>
+  <tagline>U.S. Central Command · Mission report DOW-UAP-D35 · DVIDS 1006082</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of 24 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2023. An accompanying mission report, DoW-UAP-D35, described the UAP as small and circular, flying near the surface of the ocean toward land.
+
+
+
+Video Description:
+
+00:02: The sensor narrows its field-of-view to zoom in on an area of contrast near the center of the screen.
+
+00:03-00:19: The sensor tracks the area of contrast as it moves against the ocean background.
+
+00:20: As the background scene transitions from being predominantly water to land, the area of contrast becomes indistinguishable.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>1</runtime>
+  <premiered>2023-10-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2023</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Greece</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR35</tag>
+  <tag>DOW-UAP-D35</tag>
+  <tag>DVIDS 1006082</tag>
+  <uniqueid type="dod" default="true">111689022</uniqueid>
+  <uniqueid type="dvids">1006082</uniqueid>
+  <uniqueid type="asset">231002-D-D0360-7307</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>25</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

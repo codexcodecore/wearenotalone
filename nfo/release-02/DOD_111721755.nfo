@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>NASA-UAP-D014, Mercury-Redstone 4, July 21, 1961</title>
+  <originaltitle>610721-D-D0360-5572</originaltitle>
+  <sorttitle>UAP 1961-07-21 DOD_111721755</sorttitle>
+  <tagline>National Aeronautics and Space Administration (NASA) · VIRIN 610721-D-D0360-5572 · DVIDS 1007878</tagline>
+  <plot>During the recovery of the fourth launch and second crewed spaceflight of Project Mercury, Mercury-Redstone 4 (MR-4) Liberty Bell 7, the recovery team discusses a dye pack in the water that did not activate.</plot>
+  <premiered>1961-07-21</premiered>
+  <year>1961</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>National Aeronautics and Space Administration (NASA)</director>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Spaceflight</genre>
+  <tag>NASA-UAP-D014</tag>
+  <tag>AARO</tag>
+  <tag>DVIDS 1007878</tag>
+  <uniqueid type="dod" default="true">111721755</uniqueid>
+  <uniqueid type="dvids">1007878</uniqueid>
+  <uniqueid type="virin">610721-D-D0360-5572</uniqueid>
+</movie>

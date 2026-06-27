@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR40, Middle East, 2020</title>
+  <originaltitle>200102-D-D0360-7746</originaltitle>
+  <sorttitle>UAP 2020-01-01 DOD_111689082</sorttitle>
+  <tagline>U.S. Central Command · DVIDS 1006093</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and three seconds of video footage from an infrared sensor aboard a U.S. military platform in 2020. The original reporter digitally altered the imagery by pausing the video playback and adding a white line encircling an area of interest at timestamp 00:10, annotated with the phrase “U/I SMALL THERMAL SIGNATURE.” AARO did not edit the originally reported material, and this media is presented as received.
+
+
+
+Video Description:
+
+00:00-00:09: An area of contrast brightens within the sensor field-of-view, becoming increasingly distinct against the background.
+
+00:10-00:14: Playback pauses to display a white line encircling an area of interest, annotated with the phrase “U/I SMALL THERMAL SIGNATURE.”
+
+00:15-01:03: Playback resumes, with the sensor panning to track the area of contrast against the background, generally maintaining the area of contrast’s position within the top third of the display area. During this period, the sensor cycles through several contrast and zoom settings.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>1</runtime>
+  <premiered>2020-01-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2020</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Undisclosed Location</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR40</tag>
+  <tag>DVIDS 1006093</tag>
+  <uniqueid type="dod" default="true">111689082</uniqueid>
+  <uniqueid type="dvids">1006093</uniqueid>
+  <uniqueid type="asset">200102-D-D0360-7746</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>63</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

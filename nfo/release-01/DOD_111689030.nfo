@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR36, Middle East, May 2020</title>
+  <originaltitle>200502-D-D0360-5343</originaltitle>
+  <sorttitle>UAP 2020-05-01 DOD_111689030</sorttitle>
+  <tagline>U.S. Central Command · Mission report DOW-UAP-D38 · DVIDS 1006083</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of two minutes and 17 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2020. An accompanying Range Fouler report, DoW-UAP-D38, described the UAP as a solid white object making erratic movements above the water.
+
+
+
+Video Description:
+
+00:05: An area of contrast briefly enters the sensor field-of-view from the left side of the screen.
+
+00:06-00:18: The sensor pans away from the scene’s initial subject matter while cycling contrast settings and zoom levels.
+
+00:19: The area of contrast re-enters the sensor field-of-view from near the center of the top edge of the screen.
+
+00:20-01:15: The area of contrast remains generally within the sensor field-of-view.
+
+01:16: The sensor narrows its field-of-view to zoom in on the area of contrast.
+
+01:56: The sensor further narrows its field-of-view to zoom in on the area of contrast.
+
+02:10: A blue reticle briefly appears on screen but does not acquire a lock on the area of contrast.
+
+02:15-02:17: The sensor switches to a different modality and loses track of the area of contrast.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>2</runtime>
+  <premiered>2020-05-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2020</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Undisclosed Location</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR36</tag>
+  <tag>DOW-UAP-D38</tag>
+  <tag>DVIDS 1006083</tag>
+  <uniqueid type="dod" default="true">111689030</uniqueid>
+  <uniqueid type="dvids">1006083</uniqueid>
+  <uniqueid type="asset">200502-D-D0360-5343</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>137</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

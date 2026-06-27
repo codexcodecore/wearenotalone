@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR38, Middle East, 2013</title>
+  <originaltitle>130102-D-D0360-8893</originaltitle>
+  <sorttitle>UAP 2013-01-01 DOD_111689051</sorttitle>
+  <tagline>U.S. Central Command · DVIDS 1006088</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and 46 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2013. The reporter did not provide any oral or written description of the observation.
+
+
+
+Video Description: This video depicts an area of contrast resembling an eight-pointed star with arms of alternating length.
+
+00:10: The sensor field-of-view narrows to zoom in on the area of contrast.
+
+00:11-00:29: The area of contrast moves within the sensor field-of-view, followed by a visible trail.
+
+00:30: The area of contrast leaves the sensor field-of-view at the bottom right of the screen.
+
+00:35-01:44: Following an apparent cut, the area of contrast generally remains within the sensor field-of-view before exiting the frame from the top left quarter of the screen.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>2</runtime>
+  <premiered>2013-01-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2013</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Undisclosed Location</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR38</tag>
+  <tag>DVIDS 1006088</tag>
+  <uniqueid type="dod" default="true">111689051</uniqueid>
+  <uniqueid type="dvids">1006088</uniqueid>
+  <uniqueid type="asset">130102-D-D0360-8893</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>106</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

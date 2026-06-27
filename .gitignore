@@ -1,0 +1,15 @@
+# the actual media (videos, document bundles) is NOT distributed here —
+# download it from the official source (DVIDS / War.gov). See README.
+media/
+*.mp4
+*.mov
+*.mkv
+
+# working data that's machine-specific
+data/dvids_map.json
+
+# python / os cruft
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

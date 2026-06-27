@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR32, Syria, October 2024</title>
+  <originaltitle>241002-D-D0360-2794</originaltitle>
+  <sorttitle>UAP 2024-10-01 DOD_111688997</sorttitle>
+  <tagline>U.S. Central Command · Mission report DOW-UAP-D32 · DVIDS 1006078</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of six seconds of video footage from a full-motion video (FMV) camera aboard a U.S. military platform in 2024. An accompanying mission report, DoW-UAP-D32, described the UAP as consisting of a “misshapen and uneven ball of white light,” and reported that a “light/glare halo effect” occurred at the top of the FMV feed.
+
+
+
+Video Description:
+
+00:02-00:04: An area of irregular color and brightness, mainly consisting of white and red highlights, appears near the center of the top edge of the sensor display. The area extends to a width of approximately one-third of the horizontal frame, with a vertical area comprising approximately one-sixth of the viewing area. Overall, its shape is best described as a horizontally-oriented half-oval bisected along its major axis.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>1</runtime>
+  <premiered>2024-10-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2024</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Syria</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR32</tag>
+  <tag>DOW-UAP-D32</tag>
+  <tag>DVIDS 1006078</tag>
+  <uniqueid type="dod" default="true">111688997</uniqueid>
+  <uniqueid type="dvids">1006078</uniqueid>
+  <uniqueid type="asset">241002-D-D0360-2794</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>7</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

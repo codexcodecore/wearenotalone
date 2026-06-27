@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR26, United Arab Emirates, October 2023</title>
+  <originaltitle>231001-D-D0360-8883</originaltitle>
+  <sorttitle>UAP 2023-10-01 DOD_111688816</sorttitle>
+  <tagline>U.S. Central Command · Mission report DOW-UAP-D12 · DVIDS 1006063</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of a still image derived from a U.S. military system in 2022. The original reporter digitally altered the imagery by adding a red line encircling an area of interest before submitting it to AARO. An accompanying mission report, DoW-UAP-D12, described the UAP as moving from north to northeast. The operator reported that they were unable to positively identify the UAP.
+
+
+
+Image Description: The image contains an encircled, elongated area of contrast in the top left quarter. The area of contrast increases in intensity along its length from top left to bottom right.
+
+
+
+This image description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>1</runtime>
+  <premiered>2023-10-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2023</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>United Arab Emirates</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR26</tag>
+  <tag>DOW-UAP-D12</tag>
+  <tag>DVIDS 1006063</tag>
+  <uniqueid type="dod" default="true">111688816</uniqueid>
+  <uniqueid type="dvids">1006063</uniqueid>
+  <uniqueid type="asset">231001-D-D0360-8883</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>43</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

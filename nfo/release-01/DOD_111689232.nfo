@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>NASA Audio 12/5/1965 Low Earth Orbit</title>
+  <originaltitle>651206-D-D0360-1065</originaltitle>
+  <sorttitle>UAP 1965-12-04 DOD_111689232</sorttitle>
+  <tagline>National Aeronautics and Space Administration (NASA) · DVIDS 1006119</tagline>
+  <plot>This audio recording contains air to ground communications and the NASA Public Affairs audio feed with commentary, recorded during the flight of the Gemini VII mission. In this excerpted segment of audio, Astronaut Frank Borman reports to NASA mission control in Houston his sighting of an unidentified object, which he referred to as a "bogey." This sighting occurred on December 5, 1965. The dialogue includes Borman's initial report, as well as additional comments by Astronaut Jim Lovell, Borman's fellow crew member.</plot>
+  <runtime>6</runtime>
+  <premiered>1965-12-04</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>1965</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>National Aeronautics and Space Administration (NASA)</director>
+  <country>Undisclosed Location</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Spaceflight</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DVIDS 1006119</tag>
+  <uniqueid type="dod" default="true">111689232</uniqueid>
+  <uniqueid type="dvids">1006119</uniqueid>
+  <uniqueid type="asset">651206-D-D0360-1065</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>372</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>NASA-UAP-D025, Apollo 16 Scientific Debriefing</title>
+  <originaltitle>720501-D-D0360-7145</originaltitle>
+  <sorttitle>UAP 1972-05-01 DOD_111764902</sorttitle>
+  <tagline>National Aeronautics and Space Administration (NASA) · VIRIN 720501-D-D0360-7145 · DVIDS 1010336</tagline>
+  <plot>At 32:41, the speaker makes an off-handed comment, “Could be an alien starbase or something, I don’t know” when discussing correlations between experimental data sets.</plot>
+  <premiered>1972-05-01</premiered>
+  <year>1972</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>National Aeronautics and Space Administration (NASA)</director>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Spaceflight</genre>
+  <tag>NASA-UAP-D025</tag>
+  <tag>AARO</tag>
+  <tag>DVIDS 1010336</tag>
+  <uniqueid type="dod" default="true">111764902</uniqueid>
+  <uniqueid type="dvids">1010336</uniqueid>
+  <uniqueid type="virin">720501-D-D0360-7145</uniqueid>
+</movie>

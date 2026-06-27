@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR49, Department of the Army, 2026</title>
+  <originaltitle>260102-D-D0360-9604</originaltitle>
+  <sorttitle>UAP 2026-01-01 DOD_111689168</sorttitle>
+  <tagline>Department of the Army · DVIDS 1006111</tagline>
+  <plot>The Department of the Army submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and 49 seconds of video from an infrared sensor aboard a U.S. military platform in 2026. The reporter did not provide any oral or written description of the observation.
+
+
+
+Video Description:
+
+00:00-00:08: The sensor tracks an initial area of interest.
+
+00:09-00:16: The sensor disengages from its previous area of focus and pans from right to left to track two areas of contrast, narrowing the field-of-view to zoom in while panning to maintain the objects' positions generally within the center of the frame.
+
+00:17-01:03: The sensor widens its field-of-view to zoom out, keeping the areas of contrast generally centered within the display.
+
+01:04-01:08: The sensor field-of-view rapidly cycles between levels of zoom, causing the areas of contrast to appear to rapidly increase and decrease in size.
+
+01:09-01:48: The sensor tracks the areas of contrast while maintaining a generally centered position, intermittently cycling between contrast settings.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>2</runtime>
+  <premiered>2026-01-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2026</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>Department of the Army</director>
+  <country>Undisclosed Location</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR49</tag>
+  <tag>DVIDS 1006111</tag>
+  <uniqueid type="dod" default="true">111689168</uniqueid>
+  <uniqueid type="dvids">1006111</uniqueid>
+  <uniqueid type="asset">260102-D-D0360-9604</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>109</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>FBI-UAP-PR006, Digital Recreation, Narrative Statement 3-2, Western United States Event, 2023</title>
+  <originaltitle>230101-D-D0360-3816</originaltitle>
+  <sorttitle>UAP 2023-01-01 DOD_111764213</sorttitle>
+  <tagline>Federal Bureau of Investigation (FBI) · VIRIN 230101-D-D0360-3816 · DVIDS 1010276</tagline>
+  <plot>This video is an artistic interpretation of a reported incident near a sensitive national security site in the western United States involving unidentified anomalous phenomena (UAP) over a period of two days in 2023. This digital recreation is based upon a first-hand description provided by a federal law enforcement special agent. The Federal Bureau of Investigation prepared this digital recreation at the request of the Department of War in 2026.</plot>
+  <premiered>2023-01-01</premiered>
+  <year>2023</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>Federal Bureau of Investigation (FBI)</director>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Eyewitness Report</genre>
+  <tag>FBI-UAP-PR006</tag>
+  <tag>AARO</tag>
+  <tag>DVIDS 1010276</tag>
+  <uniqueid type="dod" default="true">111764213</uniqueid>
+  <uniqueid type="dvids">1010276</uniqueid>
+  <uniqueid type="virin">230101-D-D0360-3816</uniqueid>
+</movie>

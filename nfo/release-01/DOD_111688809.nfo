@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>DOW-UAP-PR23, Iraq, December 2022</title>
+  <originaltitle>221201-D-D0360-5883</originaltitle>
+  <sorttitle>UAP 2022-12-01 DOD_111688809</sorttitle>
+  <tagline>U.S. Central Command · Mission report DOW-UAP-D18 · DVIDS 1006062</tagline>
+  <plot>The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of ten seconds of video footage from an infrared sensor aboard a U.S. military platform in 2022. An accompanying mission report, DoW-UAP-D18, described the UAP as "flying west to east."
+
+
+
+Video Description: The video depicts an area of contrast moving from the bottom left to the top right of the sensor field-of-view. At approximately six seconds, the area of contrast leaves the sensor field-of-view near the top right corner of the frame.
+
+
+
+This video description is provided for informational purposes only. Readers should not interpret any part of this description as reflecting an analytical judgment, investigative conclusion, or factual determination regarding the described event’s validity, nature, or significance.</plot>
+  <runtime>1</runtime>
+  <premiered>2022-12-01</premiered>
+  <releasedate>2025-10-07</releasedate>
+  <year>2022</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>U.S. Central Command</director>
+  <country>Iraq</country>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Military ISR</genre>
+  <tag>UAPVIDEOS</tag>
+  <tag>AARO</tag>
+  <tag>DOW-UAP-PR23</tag>
+  <tag>DOW-UAP-D18</tag>
+  <tag>DVIDS 1006062</tag>
+  <uniqueid type="dod" default="true">111688809</uniqueid>
+  <uniqueid type="dvids">1006062</uniqueid>
+  <uniqueid type="asset">221201-D-D0360-5883</uniqueid>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.778</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>11</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

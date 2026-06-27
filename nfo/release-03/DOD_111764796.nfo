@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>NASA-UAP-D024, Apollo 16 Scientific Debriefing</title>
+  <originaltitle>720501-D-D0360-5668</originaltitle>
+  <sorttitle>UAP 1972-05-01 DOD_111764796</sorttitle>
+  <tagline>National Aeronautics and Space Administration (NASA) · VIRIN 720501-D-D0360-5668 · DVIDS 1010319</tagline>
+  <plot>This debriefing includes presentations from principal investigators of various Apollo experiments. The principal investigators describe preliminary results of their work to educate the Apollo crews about what they’ve obtained from Apollo 16 to help prepare for Apollo 17. They also describe anomalies, such as a “flash” that was observed that had not yet been reported. The flash is mentioned beginning at 25:15.</plot>
+  <premiered>1972-05-01</premiered>
+  <year>1972</year>
+  <studio>All-domain Anomaly Resolution Office (AARO)</studio>
+  <director>National Aeronautics and Space Administration (NASA)</director>
+  <mpaa>Unclassified // Public Domain</mpaa>
+  <genre>Documentary</genre>
+  <genre>UAP</genre>
+  <genre>Spaceflight</genre>
+  <tag>NASA-UAP-D024</tag>
+  <tag>AARO</tag>
+  <tag>DVIDS 1010319</tag>
+  <uniqueid type="dod" default="true">111764796</uniqueid>
+  <uniqueid type="dvids">1010319</uniqueid>
+  <uniqueid type="virin">720501-D-D0360-5668</uniqueid>
+</movie>
